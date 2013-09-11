@@ -1,4 +1,2 @@
 sample-app
 ==========
-- hello world
-- 

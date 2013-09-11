@@ -10,6 +10,5 @@ class User
 		"#{@name} <#{@email}>"
 	end
 
-# change 1
 # change 2
 end
